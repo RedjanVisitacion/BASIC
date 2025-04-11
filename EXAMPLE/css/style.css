@@ -1,0 +1,23 @@
+
+body{
+    margin: 0px;
+    background-color: rgb(18, 28, 172);
+}
+
+.t{
+    color: #302020;
+    text-align: center;
+    background-color: #c4a63c;
+}
+
+.letters{
+    font-style: italic;
+    color: #8AB2A6;
+    text-align: center;
+}
+
+#red{
+    color: #14634b;
+    background-color: rgba(255, 255, 255, 0.712);
+    text-align: center;
+}
